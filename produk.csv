@@ -1,0 +1,16 @@
+id,nama,harga,stok,kategori
+1,Buku Tulis Besar 30 lembar,4000,100,Buku
+2,Buku Tulis Besar 50 lembar,5500,80,Buku
+3,Buku Tulis Kecil 30 lembar,3000,116,Buku
+4,Buku Tulis Kecil 50 lembar,4200,90,Buku
+5,Buku Berpetak,6000,64,Buku
+6,Buku Gambar A4,8000,45,Buku
+7,Buku Gambar A5,6500,60,Buku
+8,Pensil 2B Faber Castell,5000,98,Pensil
+9,Pensil Mekanik 0.5,15000,50,Pensil
+10,Penghapus Putih,3000,50,Penghapus
+11,Penghapus Hitam,3500,60,Penghapus
+12,Pulpen Snowman 0.5,4000,70,Pulpen
+13,Pulpen Pilot G2,12000,40,Pulpen
+14,Tip Ex Kertas,6000,31,Tip Ex
+15,Buku Tegak Bersambung,12000,30,Buku
