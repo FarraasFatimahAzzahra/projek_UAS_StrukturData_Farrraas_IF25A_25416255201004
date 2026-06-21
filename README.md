@@ -1,14 +1,14 @@
-**Nama:** Farraas Fatimah Azzahra
+**Nama :** Farraas Fatimah Azzahra
 
-**NIM:** 25416255201004
+**NIM :** 25416255201004
 
-**Fakultas/Prodi:** Ilmu Komputer/Teknik Informatika
+**Fakultas/Prodi :** Ilmu Komputer/Teknik Informatika
 
-**Kelas:** A
+**Kelas :** A
 
-**Mata Kuliah:** Struktur Data
+**Mata Kuliah :** Struktur Data
 
-**Dosen Pengampu:**
+**Dosen Pengampu :**
 1. Hilda Yulia Novita, S.Kom., M.Kom
 2. Cici Emilia Sukmawati, S.Kom., M.Kom
 
