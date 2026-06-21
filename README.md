@@ -22,7 +22,7 @@ Program berupa aplikasi marketplace sederhana berbasis console/terminal yang bis
 - `marketplace.py` = Kode program utama Python.
 - `produk.csv` = Database penyimpanan data produk.
 - `Flowchart UAS STRUKDAT MARKETPLACE SED.png` = Flowchart alur program global.
-  ![alt text](?raw=true)
+  ![alt text](https://github.com/FarraasFatimahAzzahra/projek_UAS_StrukturData_Farrraas_IF25A_25416255201004/blob/main/Flowchart%20UAS%20STRUKDAT%20MARKETPLACE%20SEDERHANA.jpeg?raw=true)
 
 # Fitur Program
 Program memiliki 9 menu utama:
